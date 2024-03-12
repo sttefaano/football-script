@@ -1,0 +1,1534 @@
+[
+  {
+    "league": {
+      "id": 128,
+      "name": "Liga Profesional Argentina",
+      "type": "League",
+      "logo": "https://media.api-sports.io/football/leagues/128.png"
+    }
+  },
+  {
+    "league": {
+      "id": 130,
+      "name": "Copa Argentina",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/130.png"
+    }
+  },
+  {
+    "league": {
+      "id": 517,
+      "name": "Trofeo de Campeones de la Superliga",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/517.png"
+    }
+  },
+  {
+    "league": {
+      "id": 483,
+      "name": "Copa de la Superliga",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/483.png"
+    }
+  },
+  {
+    "league": {
+      "id": 810,
+      "name": "Super Copa",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/810.png"
+    }
+  },
+  {
+    "league": {
+      "id": 906,
+      "name": "Reserve League",
+      "type": "League",
+      "logo": "https://media.api-sports.io/football/leagues/906.png"
+    }
+  },
+  {
+    "league": {
+      "id": 1032,
+      "name": "Copa de la Liga Profesional",
+      "type": "League",
+      "logo": "https://media.api-sports.io/football/leagues/1032.png"
+    }
+  },
+  {
+    "league": {
+      "id": 4,
+      "name": "Euro Championship",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/4.png"
+    }
+  },
+  {
+    "league": {
+      "id": 21,
+      "name": "Confederations Cup",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/21.png"
+    }
+  },
+  {
+    "league": {
+      "id": 1,
+      "name": "World Cup",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/1.png"
+    }
+  },
+  {
+    "league": {
+      "id": 803,
+      "name": "Asian Games",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/803.png"
+    }
+  },
+  {
+    "league": {
+      "id": 804,
+      "name": "Caribbean Cup",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/804.png"
+    }
+  },
+  {
+    "league": {
+      "id": 2,
+      "name": "UEFA Champions League",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/2.png"
+    }
+  },
+  {
+    "league": {
+      "id": 7,
+      "name": "Asian Cup",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/7.png"
+    }
+  },
+  {
+    "league": {
+      "id": 8,
+      "name": "World Cup - Women",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/8.png"
+    }
+  },
+  {
+    "league": {
+      "id": 15,
+      "name": "FIFA Club World Cup",
+      "type": "League",
+      "logo": "https://media.api-sports.io/football/leagues/15.png"
+    }
+  },
+  {
+    "league": {
+      "id": 480,
+      "name": "Olympics Men",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/480.png"
+    }
+  },
+  {
+    "league": {
+      "id": 535,
+      "name": "CECAFA Senior Challenge Cup",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/535.png"
+    }
+  },
+  {
+    "league": {
+      "id": 28,
+      "name": "SAFF Championship",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/28.png"
+    }
+  },
+  {
+    "league": {
+      "id": 3,
+      "name": "UEFA Europa League",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/3.png"
+    }
+  },
+  {
+    "league": {
+      "id": 807,
+      "name": "AFC Challenge Cup",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/807.png"
+    }
+  },
+  {
+    "league": {
+      "id": 19,
+      "name": "African Nations Championship",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/19.png"
+    }
+  },
+  {
+    "league": {
+      "id": 24,
+      "name": "AFF Championship",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/24.png"
+    }
+  },
+  {
+    "league": {
+      "id": 37,
+      "name": "World Cup - Qualification Intercontinental Play-offs",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/37.png"
+    }
+  },
+  {
+    "league": {
+      "id": 22,
+      "name": "CONCACAF Gold Cup",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/22.png"
+    }
+  },
+  {
+    "league": {
+      "id": 23,
+      "name": "EAFF E-1 Football Championship",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/23.png"
+    }
+  },
+  {
+    "league": {
+      "id": 27,
+      "name": "OFC Champions League",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/27.png"
+    }
+  },
+  {
+    "league": {
+      "id": 6,
+      "name": "Africa Cup of Nations",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/6.png"
+    }
+  },
+  {
+    "league": {
+      "id": 9,
+      "name": "Copa America",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/9.png"
+    }
+  },
+  {
+    "league": {
+      "id": 524,
+      "name": "Olympics Women",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/524.png"
+    }
+  },
+  {
+    "league": {
+      "id": 531,
+      "name": "UEFA Super Cup",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/531.png"
+    }
+  },
+  {
+    "league": {
+      "id": 16,
+      "name": "CONCACAF Champions League",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/16.png"
+    }
+  },
+  {
+    "league": {
+      "id": 17,
+      "name": "AFC Champions League",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/17.png"
+    }
+  },
+  {
+    "league": {
+      "id": 25,
+      "name": "Gulf Cup of Nations",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/25.png"
+    }
+  },
+  {
+    "league": {
+      "id": 26,
+      "name": "International Champions Cup",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/26.png"
+    }
+  },
+  {
+    "league": {
+      "id": 805,
+      "name": "Copa Centroamericana",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/805.png"
+    }
+  },
+  {
+    "league": {
+      "id": 806,
+      "name": "OFC Nations Cup",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/806.png"
+    }
+  },
+  {
+    "league": {
+      "id": 766,
+      "name": "China Cup",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/766.png"
+    }
+  },
+  {
+    "league": {
+      "id": 10,
+      "name": "Friendlies",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/10.png"
+    }
+  },
+  {
+    "league": {
+      "id": 14,
+      "name": "UEFA Youth League",
+      "type": "League",
+      "logo": "https://media.api-sports.io/football/leagues/14.png"
+    }
+  },
+  {
+    "league": {
+      "id": 18,
+      "name": "AFC Cup",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/18.png"
+    }
+  },
+  {
+    "league": {
+      "id": 20,
+      "name": "CAF Confederation Cup",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/20.png"
+    }
+  },
+  {
+    "league": {
+      "id": 38,
+      "name": "UEFA U21 Championship",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/38.png"
+    }
+  },
+  {
+    "league": {
+      "id": 490,
+      "name": "World Cup - U20",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/490.png"
+    }
+  },
+  {
+    "league": {
+      "id": 5,
+      "name": "UEFA Nations League",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/5.png"
+    }
+  },
+  {
+    "league": {
+      "id": 808,
+      "name": "CONCACAF Nations League - Qualification",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/808.png"
+    }
+  },
+  {
+    "league": {
+      "id": 31,
+      "name": "World Cup - Qualification CONCACAF",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/31.png"
+    }
+  },
+  {
+    "league": {
+      "id": 32,
+      "name": "World Cup - Qualification Europe",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/32.png"
+    }
+  },
+  {
+    "league": {
+      "id": 33,
+      "name": "World Cup - Qualification Oceania",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/33.png"
+    }
+  },
+  {
+    "league": {
+      "id": 34,
+      "name": "World Cup - Qualification South America",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/34.png"
+    }
+  },
+  {
+    "league": {
+      "id": 29,
+      "name": "World Cup - Qualification Africa",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/29.png"
+    }
+  },
+  {
+    "league": {
+      "id": 30,
+      "name": "World Cup - Qualification Asia",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/30.png"
+    }
+  },
+  {
+    "league": {
+      "id": 493,
+      "name": "UEFA U19 Championship",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/493.png"
+    }
+  },
+  {
+    "league": {
+      "id": 537,
+      "name": "CONCACAF U20",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/537.png"
+    }
+  },
+  {
+    "league": {
+      "id": 525,
+      "name": "UEFA Champions League Women",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/525.png"
+    }
+  },
+  {
+    "league": {
+      "id": 533,
+      "name": "CAF Super Cup",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/533.png"
+    }
+  },
+  {
+    "league": {
+      "id": 534,
+      "name": "CONCACAF Caribbean Club Shield",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/534.png"
+    }
+  },
+  {
+    "league": {
+      "id": 11,
+      "name": "CONMEBOL Sudamericana",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/11.png"
+    }
+  },
+  {
+    "league": {
+      "id": 12,
+      "name": "CAF Champions League",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/12.png"
+    }
+  },
+  {
+    "league": {
+      "id": 13,
+      "name": "CONMEBOL Libertadores",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/13.png"
+    }
+  },
+  {
+    "league": {
+      "id": 35,
+      "name": "Asian Cup - Qualification",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/35.png"
+    }
+  },
+  {
+    "league": {
+      "id": 768,
+      "name": "Arab Club Champions Cup",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/768.png"
+    }
+  },
+  {
+    "league": {
+      "id": 772,
+      "name": "Leagues Cup",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/772.png"
+    }
+  },
+  {
+    "league": {
+      "id": 773,
+      "name": "Sudamericano U20",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/773.png"
+    }
+  },
+  {
+    "league": {
+      "id": 587,
+      "name": "World Cup - U17",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/587.png"
+    }
+  },
+  {
+    "league": {
+      "id": 881,
+      "name": "Olympics Men - Qualification Concacaf",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/881.png"
+    }
+  },
+  {
+    "league": {
+      "id": 882,
+      "name": "Olympics Women - Qualification Asia",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/882.png"
+    }
+  },
+  {
+    "league": {
+      "id": 885,
+      "name": "Campeones Cup",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/885.png"
+    }
+  },
+  {
+    "league": {
+      "id": 532,
+      "name": "AFC U23 Asian Cup",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/532.png"
+    }
+  },
+  {
+    "league": {
+      "id": 536,
+      "name": "CONCACAF Nations League",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/536.png"
+    }
+  },
+  {
+    "league": {
+      "id": 538,
+      "name": "Africa Cup of Nations U20",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/538.png"
+    }
+  },
+  {
+    "league": {
+      "id": 540,
+      "name": "CONMEBOL Libertadores U20",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/540.png"
+    }
+  },
+  {
+    "league": {
+      "id": 541,
+      "name": "CONMEBOL Recopa",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/541.png"
+    }
+  },
+  {
+    "league": {
+      "id": 767,
+      "name": "CONCACAF League",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/767.png"
+    }
+  },
+  {
+    "league": {
+      "id": 771,
+      "name": "COSAFA U20 Championship",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/771.png"
+    }
+  },
+  {
+    "league": {
+      "id": 849,
+      "name": "Baltic Cup",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/849.png"
+    }
+  },
+  {
+    "league": {
+      "id": 666,
+      "name": "Friendlies Women",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/666.png"
+    }
+  },
+  {
+    "league": {
+      "id": 667,
+      "name": "Friendlies Clubs",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/667.png"
+    }
+  },
+  {
+    "league": {
+      "id": 743,
+      "name": "UEFA Championship - Women",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/743.png"
+    }
+  },
+  {
+    "league": {
+      "id": 36,
+      "name": "Africa Cup of Nations - Qualification",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/36.png"
+    }
+  },
+  {
+    "league": {
+      "id": 910,
+      "name": "Youth Viareggio Cup",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/910.png"
+    }
+  },
+  {
+    "league": {
+      "id": 848,
+      "name": "UEFA Europa Conference League",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/848.png"
+    }
+  },
+  {
+    "league": {
+      "id": 856,
+      "name": "CONCACAF Caribbean Club Championship",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/856.png"
+    }
+  },
+  {
+    "league": {
+      "id": 858,
+      "name": "CONCACAF Gold Cup - Qualification",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/858.png"
+    }
+  },
+  {
+    "league": {
+      "id": 859,
+      "name": "COSAFA Cup",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/859.png"
+    }
+  },
+  {
+    "league": {
+      "id": 860,
+      "name": "Arab Cup",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/860.png"
+    }
+  },
+  {
+    "league": {
+      "id": 869,
+      "name": "CECAFA Club Cup",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/869.png"
+    }
+  },
+  {
+    "league": {
+      "id": 880,
+      "name": "World Cup - Women - Qualification Europe",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/880.png"
+    }
+  },
+  {
+    "league": {
+      "id": 890,
+      "name": "U20 Elite League",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/890.png"
+    }
+  },
+  {
+    "league": {
+      "id": 902,
+      "name": "Algarve Cup",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/902.png"
+    }
+  },
+  {
+    "league": {
+      "id": 903,
+      "name": "The Atlantic Cup",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/903.png"
+    }
+  },
+  {
+    "league": {
+      "id": 886,
+      "name": "UEFA U17 Championship - Qualification",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/886.png"
+    }
+  },
+  {
+    "league": {
+      "id": 893,
+      "name": "UEFA U19 Championship - Qualification",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/893.png"
+    }
+  },
+  {
+    "league": {
+      "id": 894,
+      "name": "Asian Cup Women - Qualification",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/894.png"
+    }
+  },
+  {
+    "league": {
+      "id": 897,
+      "name": "Asian Cup Women",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/897.png"
+    }
+  },
+  {
+    "league": {
+      "id": 900,
+      "name": "Tipsport Malta Cup",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/900.png"
+    }
+  },
+  {
+    "league": {
+      "id": 904,
+      "name": "SheBelieves Cup",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/904.png"
+    }
+  },
+  {
+    "league": {
+      "id": 908,
+      "name": "AFF U23 Championship",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/908.png"
+    }
+  },
+  {
+    "league": {
+      "id": 911,
+      "name": "Southeast Asian Games",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/911.png"
+    }
+  },
+  {
+    "league": {
+      "id": 912,
+      "name": "CONCACAF Women U17",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/912.png"
+    }
+  },
+  {
+    "league": {
+      "id": 913,
+      "name": "CONMEBOL - UEFA Finalissima",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/913.png"
+    }
+  },
+  {
+    "league": {
+      "id": 914,
+      "name": "Tournoi Maurice Revello",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/914.png"
+    }
+  },
+  {
+    "league": {
+      "id": 916,
+      "name": "Kirin Cup",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/916.png"
+    }
+  },
+  {
+    "league": {
+      "id": 918,
+      "name": "UEFA U19 Championship - Women",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/918.png"
+    }
+  },
+  {
+    "league": {
+      "id": 919,
+      "name": "Mediterranean Games",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/919.png"
+    }
+  },
+  {
+    "league": {
+      "id": 920,
+      "name": "World Cup - U20 - Women",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/920.png"
+    }
+  },
+  {
+    "league": {
+      "id": 921,
+      "name": "UEFA U17 Championship",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/921.png"
+    }
+  },
+  {
+    "league": {
+      "id": 922,
+      "name": "Africa Cup of Nations - Women",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/922.png"
+    }
+  },
+  {
+    "league": {
+      "id": 926,
+      "name": "Copa America Femenina",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/926.png"
+    }
+  },
+  {
+    "league": {
+      "id": 927,
+      "name": "World Cup - Women - Qualification Concacaf",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/927.png"
+    }
+  },
+  {
+    "league": {
+      "id": 928,
+      "name": "AFF U19 Championship",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/928.png"
+    }
+  },
+  {
+    "league": {
+      "id": 934,
+      "name": "Arab Championship - U20",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/934.png"
+    }
+  },
+  {
+    "league": {
+      "id": 937,
+      "name": "Emirates Cup",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/937.png"
+    }
+  },
+  {
+    "league": {
+      "id": 940,
+      "name": "COTIF Tournament",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/940.png"
+    }
+  },
+  {
+    "league": {
+      "id": 941,
+      "name": "Islamic Solidarity Games",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/941.png"
+    }
+  },
+  {
+    "league": {
+      "id": 1016,
+      "name": "CAC Games",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/1016.png"
+    }
+  },
+  {
+    "league": {
+      "id": 945,
+      "name": "International Champions Cup - Women",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/945.png"
+    }
+  },
+  {
+    "league": {
+      "id": 949,
+      "name": "CONMEBOL Libertadores Femenina",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/949.png"
+    }
+  },
+  {
+    "league": {
+      "id": 950,
+      "name": "World Cup - U17 - Women",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/950.png"
+    }
+  },
+  {
+    "league": {
+      "id": 951,
+      "name": "South American Youth Games",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/951.png"
+    }
+  },
+  {
+    "league": {
+      "id": 952,
+      "name": "AFC U23 Asian Cup - Qualification",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/952.png"
+    }
+  },
+  {
+    "league": {
+      "id": 953,
+      "name": "Africa U23 Cup of Nations - Qualification",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/953.png"
+    }
+  },
+  {
+    "league": {
+      "id": 960,
+      "name": "Euro Championship - Qualification",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/960.png"
+    }
+  },
+  {
+    "league": {
+      "id": 963,
+      "name": "CONCACAF U17",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/963.png"
+    }
+  },
+  {
+    "league": {
+      "id": 965,
+      "name": "AFC U20 Asian Cup",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/965.png"
+    }
+  },
+  {
+    "league": {
+      "id": 970,
+      "name": "CONMEBOL - U17",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/970.png"
+    }
+  },
+  {
+    "league": {
+      "id": 973,
+      "name": "CAF Cup of Nations - U17",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/973.png"
+    }
+  },
+  {
+    "league": {
+      "id": 1008,
+      "name": "CAFA Nations Cup",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/1008.png"
+    }
+  },
+  {
+    "league": {
+      "id": 1012,
+      "name": "AFC U17 Asian Cup",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/1012.png"
+    }
+  },
+  {
+    "league": {
+      "id": 1013,
+      "name": "All-Island Cup - Women",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/1013.png"
+    }
+  },
+  {
+    "league": {
+      "id": 1015,
+      "name": "CAF U23 Cup of Nations",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/1015.png"
+    }
+  },
+  {
+    "league": {
+      "id": 1024,
+      "name": "UEFA - CONMEBOL - Club Challenge",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/1024.png"
+    }
+  },
+  {
+    "league": {
+      "id": 1028,
+      "name": "Concacaf Central American Cup",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/1028.png"
+    }
+  },
+  {
+    "league": {
+      "id": 1038,
+      "name": "King's Cup",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/1038.png"
+    }
+  },
+  {
+    "league": {
+      "id": 1039,
+      "name": "Premier League International Cup",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/1039.png"
+    }
+  },
+  {
+    "league": {
+      "id": 1040,
+      "name": "UEFA Nations League - Women",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/1040.png"
+    }
+  },
+  {
+    "league": {
+      "id": 1043,
+      "name": "African Football League",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/1043.png"
+    }
+  },
+  {
+    "league": {
+      "id": 1045,
+      "name": "Pan American Games",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/1045.png"
+    }
+  },
+  {
+    "league": {
+      "id": 850,
+      "name": "UEFA U21 Championship - Qualification",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/850.png"
+    }
+  },
+  {
+    "league": {
+      "id": 1001,
+      "name": "CONCACAF Women U20",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/1001.png"
+    }
+  },
+  {
+    "league": {
+      "id": 1046,
+      "name": "CONCACAF Gold Cup - Qualification - Women",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/1046.png"
+    }
+  },
+  {
+    "league": {
+      "id": 1047,
+      "name": "Olympics Women - Qualification CAF",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/1047.png"
+    }
+  },
+  {
+    "league": {
+      "id": 1057,
+      "name": "CONCACAF Gold Cup - Women",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/1057.png"
+    }
+  },
+  {
+    "league": {
+      "id": 1060,
+      "name": "CONMEBOL - Pre-Olympic Tournament",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/1060.png"
+    }
+  }
+]
+[
+  {
+    "league": {
+      "id": 140,
+      "name": "La Liga",
+      "type": "League",
+      "logo": "https://media.api-sports.io/football/leagues/140.png"
+    }
+  },
+  {
+    "league": {
+      "id": 556,
+      "name": "Super Cup",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/556.png"
+    }
+  },
+  {
+    "league": {
+      "id": 143,
+      "name": "Copa del Rey",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/143.png"
+    }
+  }
+]
+[
+  {
+    "league": {
+      "id": 39,
+      "name": "Premier League",
+      "type": "League",
+      "logo": "https://media.api-sports.io/football/leagues/39.png"
+    }
+  },
+  {
+    "league": {
+      "id": 40,
+      "name": "Championship",
+      "type": "League",
+      "logo": "https://media.api-sports.io/football/leagues/40.png"
+    }
+  },
+  {
+    "league": {
+      "id": 46,
+      "name": "EFL Trophy",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/46.png"
+    }
+  },
+  {
+    "league": {
+      "id": 45,
+      "name": "FA Cup",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/45.png"
+    }
+  },
+  {
+    "league": {
+      "id": 47,
+      "name": "FA Trophy",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/47.png"
+    }
+  },
+  {
+    "league": {
+      "id": 48,
+      "name": "League Cup",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/48.png"
+    }
+  },
+  {
+    "league": {
+      "id": 43,
+      "name": "National League",
+      "type": "League",
+      "logo": "https://media.api-sports.io/football/leagues/43.png"
+    }
+  },
+  {
+    "league": {
+      "id": 41,
+      "name": "League One",
+      "type": "League",
+      "logo": "https://media.api-sports.io/football/leagues/41.png"
+    }
+  },
+  {
+    "league": {
+      "id": 42,
+      "name": "League Two",
+      "type": "League",
+      "logo": "https://media.api-sports.io/football/leagues/42.png"
+    }
+  },
+  {
+    "league": {
+      "id": 528,
+      "name": "Community Shield",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/528.png"
+    }
+  },
+  {
+    "league": {
+      "id": 44,
+      "name": "FA WSL",
+      "type": "League",
+      "logo": "https://media.api-sports.io/football/leagues/44.png"
+    }
+  },
+  {
+    "league": {
+      "id": 49,
+      "name": "National League - Play-offs",
+      "type": "League",
+      "logo": "https://media.api-sports.io/football/leagues/49.png"
+    }
+  },
+  {
+    "league": {
+      "id": 50,
+      "name": "National League - North",
+      "type": "League",
+      "logo": "https://media.api-sports.io/football/leagues/50.png"
+    }
+  },
+  {
+    "league": {
+      "id": 51,
+      "name": "National League - South",
+      "type": "League",
+      "logo": "https://media.api-sports.io/football/leagues/51.png"
+    }
+  },
+  {
+    "league": {
+      "id": 52,
+      "name": "Non League Div One - Isthmian North",
+      "type": "League",
+      "logo": "https://media.api-sports.io/football/leagues/52.png"
+    }
+  },
+  {
+    "league": {
+      "id": 53,
+      "name": "Non League Div One - Isthmian South Central",
+      "type": "League",
+      "logo": "https://media.api-sports.io/football/leagues/53.png"
+    }
+  },
+  {
+    "league": {
+      "id": 54,
+      "name": "Non League Div One - Northern West",
+      "type": "League",
+      "logo": "https://media.api-sports.io/football/leagues/54.png"
+    }
+  },
+  {
+    "league": {
+      "id": 55,
+      "name": "Non League Div One - Northern Midlands",
+      "type": "League",
+      "logo": "https://media.api-sports.io/football/leagues/55.png"
+    }
+  },
+  {
+    "league": {
+      "id": 56,
+      "name": "Non League Div One - Southern South",
+      "type": "League",
+      "logo": "https://media.api-sports.io/football/leagues/56.png"
+    }
+  },
+  {
+    "league": {
+      "id": 57,
+      "name": "Non League Div One - Isthmian South East",
+      "type": "League",
+      "logo": "https://media.api-sports.io/football/leagues/57.png"
+    }
+  },
+  {
+    "league": {
+      "id": 58,
+      "name": "Non League Premier - Isthmian",
+      "type": "League",
+      "logo": "https://media.api-sports.io/football/leagues/58.png"
+    }
+  },
+  {
+    "league": {
+      "id": 59,
+      "name": "Non League Premier - Northern",
+      "type": "League",
+      "logo": "https://media.api-sports.io/football/leagues/59.png"
+    }
+  },
+  {
+    "league": {
+      "id": 60,
+      "name": "Non League Premier - Southern South",
+      "type": "League",
+      "logo": "https://media.api-sports.io/football/leagues/60.png"
+    }
+  },
+  {
+    "league": {
+      "id": 698,
+      "name": "FA Women's Cup",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/698.png"
+    }
+  },
+  {
+    "league": {
+      "id": 670,
+      "name": "Community Shield Women",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/670.png"
+    }
+  },
+  {
+    "league": {
+      "id": 695,
+      "name": "U18 Premier League - North",
+      "type": "League",
+      "logo": "https://media.api-sports.io/football/leagues/695.png"
+    }
+  },
+  {
+    "league": {
+      "id": 696,
+      "name": "U18 Premier League - South",
+      "type": "League",
+      "logo": "https://media.api-sports.io/football/leagues/696.png"
+    }
+  },
+  {
+    "league": {
+      "id": 697,
+      "name": "WSL Cup",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/697.png"
+    }
+  },
+  {
+    "league": {
+      "id": 699,
+      "name": "Women's Championship",
+      "type": "League",
+      "logo": "https://media.api-sports.io/football/leagues/699.png"
+    }
+  },
+  {
+    "league": {
+      "id": 702,
+      "name": "Premier League 2 Division One",
+      "type": "League",
+      "logo": "https://media.api-sports.io/football/leagues/702.png"
+    }
+  },
+  {
+    "league": {
+      "id": 703,
+      "name": "Professional Development League",
+      "type": "League",
+      "logo": "https://media.api-sports.io/football/leagues/703.png"
+    }
+  },
+  {
+    "league": {
+      "id": 871,
+      "name": "Premier League Cup",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/football/leagues/871.png"
+    }
+  },
+  {
+    "league": {
+      "id": 931,
+      "name": "Non League Premier - Southern Central",
+      "type": "League",
+      "logo": "https://media.api-sports.io/football/leagues/931.png"
+    }
+  },
+  {
+    "league": {
+      "id": 932,
+      "name": "Non League Div One - Northern East",
+      "type": "League",
+      "logo": "https://media.api-sports.io/football/leagues/932.png"
+    }
+  },
+  {
+    "league": {
+      "id": 933,
+      "name": "Non League Div One - Southern Central",
+      "type": "League",
+      "logo": "https://media.api-sports.io/football/leagues/933.png"
+    }
+  },
+  {
+    "league": {
+      "id": 984,
+      "name": "National League - North - Play-offs",
+      "type": "League",
+      "logo": "https://media.api-sports.io/football/leagues/984.png"
+    }
+  },
+  {
+    "league": {
+      "id": 985,
+      "name": "National League - South - Play-offs",
+      "type": "League",
+      "logo": "https://media.api-sports.io/football/leagues/985.png"
+    }
+  },
+  {
+    "league": {
+      "id": 986,
+      "name": "Non League Div One - Play-offs",
+      "type": "League",
+      "logo": "https://media.api-sports.io/football/leagues/986.png"
+    }
+  },
+  {
+    "league": {
+      "id": 987,
+      "name": "U18 Premier League - Championship",
+      "type": "League",
+      "logo": "https://media.api-sports.io/football/leagues/987.png"
+    }
+  },
+  {
+    "league": {
+      "id": 993,
+      "name": "Non League Premier - Isthmian - Play-offs",
+      "type": "League",
+      "logo": "https://media.api-sports.io/football/leagues/993.png"
+    }
+  },
+  {
+    "league": {
+      "id": 994,
+      "name": "Non League Premier - Northern - Play-offs",
+      "type": "League",
+      "logo": "https://media.api-sports.io/football/leagues/994.png"
+    }
+  },
+  {
+    "league": {
+      "id": 995,
+      "name": "Non League Premier - Southern South - Play-offs",
+      "type": "League",
+      "logo": "https://media.api-sports.io/football/leagues/995.png"
+    }
+  },
+  {
+    "league": {
+      "id": 996,
+      "name": "Non League Premier - Southern Central - Play-offs",
+      "type": "League",
+      "logo": "https://media.api-sports.io/football/leagues/996.png"
+    }
+  },
+  {
+    "league": {
+      "id": 1022,
+      "name": "Premier League - Summer Series",
+      "type": "League",
+      "logo": "https://media.api-sports.io/football/leagues/1022.png"
+    }
+  }
+]
