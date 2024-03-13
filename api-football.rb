@@ -3,7 +3,7 @@ require 'net/http'
 require 'json'
 
 def get_prediction(id)
-  api_key = 'c8cfff87ccmsh91391635bfbc4dap1b6917jsnd9e422a92dd4'
+  api_key = ''
   base_url = 'https://api-football-v1.p.rapidapi.com/v3/'
   host = 'api-football-v1.p.rapidapi.com'
   predictions_url = "predictions?fixture=#{id}"
@@ -22,7 +22,7 @@ def get_prediction(id)
 end
 
 def get_fixtures(league_id, date, season)
-  api_key = 'c8cfff87ccmsh91391635bfbc4dap1b6917jsnd9e422a92dd4'
+  api_key = ''
   base_url = 'https://api-football-v1.p.rapidapi.com/v3/'
   host = 'api-football-v1.p.rapidapi.com'
   timezone = "America/Argentina/Cordoba"
@@ -44,7 +44,7 @@ end
 
 def extract_advice(data)
   # data['response'][0]['predictions']['advice']
-  data['response']
+  data['response'][0]['predictions']
 end
 
 def extract_fixtures_ids(fixture_response)
@@ -74,10 +74,11 @@ end
 #   fixtures_ids << extract_fixtures_ids(get_fixtures(1032, "2024-02-#{day}", 2024))
 # end
 
-# 135 serie A, 1032 liga arg, 140 españa, 39 premier
+# 135 serie A, 1032 liga arg, 140 españa, 39 premier, 2 champions league
 
-# fixtures_ids = extract_fixtures_ids(get_fixtures(1032, '2024-03-12', 2024))
-# advices = get_advices(fixtures_ids)
+fixtures_ids = extract_fixtures_ids(get_fixtures(39, '2024-03-13', 2023))
+advices = get_advices(fixtures_ids)
+puts JSON.pretty_generate(advices)
 # puts get_fixtures(1032, '2024-03-12', 2024)
 # puts JSON.pretty_generate(get_fixtures(1032, '2024-03-12', 2024))
-puts JSON.pretty_generate get_advices([1158598])
+# puts JSON.pretty_generate get_advices([1158598])
